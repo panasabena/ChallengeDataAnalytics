@@ -1,5 +1,5 @@
-# ChallengeStrata
-Challenge de Data Analytics para Strata
+# Challenge
+Challenge de Data Analytics
 
 * En el archivo [EDA.ipynb](https://github.com/panasabena/ChallengeStrata/blob/master/EDA.ipynb) estan las primeras visualizaciones e interpretaciones del conjunto de datos  que se llevaron a cabo.
 
